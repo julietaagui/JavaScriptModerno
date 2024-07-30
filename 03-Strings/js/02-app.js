@@ -6,6 +6,6 @@ console.log(producto);
 console.log(producto.length);
 
 // Este metodo nos dice si el texto contien la palabra Monitor
-//console.log(producto.indexOf('Monitor'));
+console.log(producto.indexOf('Monitor'));
 
 console.log(producto.indexOf('Tablet'));

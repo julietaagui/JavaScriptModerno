@@ -9,5 +9,5 @@ console.log(producto.trimStart());
 console.log(producto.trimEnd());
 
 console.log(producto.trimStart().trimEnd());
-//Elimina los espacios en blanco en todas las direcciones
+//Elimina los espacios en blanco en todas las
 console.log( producto.trim())
