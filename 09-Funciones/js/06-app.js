@@ -1,4 +1,4 @@
-// pParametros por default 
+// Parametros por default 
 function saludar(nombre = 'Desconocido', apellido = ''){ //parametro
     console.log(`Hola ${nombre} ${apellido}`)
 };
