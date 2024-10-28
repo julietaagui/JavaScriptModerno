@@ -1,5 +1,7 @@
 const busqueda = document.querySelector('.busqueda');
 
-busqueda.addEventListener('input', () => {
-    console.log('copiado');
+busqueda.addEventListener('input', (e) => {
+    if (e.target.value === ''){
+        console.log('fallo la validacion')
+    }
 })
